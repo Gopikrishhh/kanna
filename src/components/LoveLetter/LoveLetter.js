@@ -36,11 +36,13 @@ const LoveLetter = () => {
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
         Kannamma🖤,<br />
-        Nuvvante naku chaala istam entha ante cheppalenu okavela cheppina<br /> nenu explain chese way ki neeku ardam kaadhu<br />
-        In all the world there is no heart for me like yours In all the world there is no love for you like mine<br />
-		i loveeee youuuu  :)<br />
+        Nuvvante naku chaala istam entha ante cheppalenu okavela cheppina<br /> nenu explain chese way ki neeku ardam kaadhu... edho chepthunna kanna<br />
+	 kanna idhi naaku nee pyna unna feeling naaana....🖤<br />
+		
+                        In all the world there is no heart 🖤for me like yours In all the world there is no love 🖤for you like mine<br />
+              i loveeee youuuu kannama🖤🖤  :)<br />
         always yours,<br />
-        @Nee kannayya🖤
+        @Nee kannayya🖤🖤
       </div>
       <audio ref={audioRef} src={audioFile} onError={(e) => console.error('Audio error:', e.message)} />
     </div>
