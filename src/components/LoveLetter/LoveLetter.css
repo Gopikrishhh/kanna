@@ -2,11 +2,11 @@
 
 .envelope {
     position: relative;
-    width: 600px;
-    height: 400px;
+    width: 800px;
+    height: 700px;
     margin: 50px auto;
     cursor: pointer;
-    perspective: 1000px;
+    perspective: 1200px;
     background: url('https://static.vecteezy.com/system/resources/previews/010/029/965/non_2x/love-letter-pattern-texture-with-text-effect-on-a-white-background-valentine-s-day-special-seamless-pattern-design-with-love-shapes-love-endless-pattern-decoration-for-bed-sheets-and-wallpapers-vector.jpg');
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
@@ -27,9 +27,9 @@
   
   .body {
     position: absolute;
-    top: 50%;
+    top: 70%;
     width: 100%;
-    height: 50%;
+    height: 40%;
     background: url('https://static.vecteezy.com/system/resources/previews/010/029/965/non_2x/love-letter-pattern-texture-with-text-effect-on-a-white-background-valentine-s-day-special-seamless-pattern-design-with-love-shapes-love-endless-pattern-decoration-for-bed-sheets-and-wallpapers-vector.jpg');
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
@@ -39,10 +39,10 @@
   
   .letter {
     position: absolute;
-    top: 50%;
+    top: 70%;
     left: 0;
     width: 100%;
-    height: 50%;
+    height: 40%;
     background-color: #fafafa;
     overflow: hidden;
     transition: all 0.8s cubic-bezier(0.165, 0.84, 0.44, 1);
