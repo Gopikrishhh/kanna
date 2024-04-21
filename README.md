@@ -1,8 +1,5 @@
 # Propose your GF/BF using React Love Letter
 
-Developed by gopi
-Website Link: [Click Here](https://react-love-letter.vercel.app)
-
-### How to use this?
-Just fork the repository and install dependencies and run 'npm start' and done :)
+Developed by gopikrishhh
+Website Link: [Click Here](https://kanna-omega.vercel.app/)
 
