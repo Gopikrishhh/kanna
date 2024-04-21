@@ -17,7 +17,7 @@ const LoveLetter = () => {
           .then(() => console.log("Playback succeeded"))
           .catch(e => console.error("Playback failed:", e));
       }
-    }, 800);
+    }, 1000);
   };
 
   const handleCloseLetter = () => {
@@ -27,7 +27,7 @@ const LoveLetter = () => {
         audioRef.current.pause();
       }
       setIsOpen(false);
-    }, 800);
+    }, 1000);
   };
 
   return (
